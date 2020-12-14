@@ -1,5 +1,5 @@
 # Beats - Play your Music
-Just another Rhythm Game implemented in Unity. Basic key detection to hit Notes as they fall down. You can import your own MP3 Files to create new Songs and play them. See description below for further information.
+A simple Rhythm Game implemented in Unity. The goal is to hit Notes as they fall down. You can import your own MP3 Files to create new Songs and play them. See description below for further information.
 
 ![Game Screenshot](https://github.com/kuko64/BPM/blob/main/BPM-collage.png?raw=true)
 
