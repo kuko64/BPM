@@ -4,7 +4,7 @@ A simple Rhythm Game implemented in Unity. The goal is to hit Notes as they fall
 ![Game Screenshot](https://github.com/kuko64/BPM/blob/main/BPM-collage.png?raw=true)
 
 ## Getting started
-Download project and run in Unity (01_StartScene).
+Download the project and run it in Unity (01_StartScene).
 There are initially two examples implemented ('GuitarBeat' and 'PinkHouseBeat') with some sample beats that were created with Garageband.
 To add new music just copy the mp3 file to Assets>Resources>Music. You can then start the game and hit 'Create New Song' in the game to create your own Notes. Afterwards you will see them in your Setlist and can start to play.
 
