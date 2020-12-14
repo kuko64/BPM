@@ -1,7 +1,7 @@
 # Beats - Play your Music
 Just another Rhythm Game implemented in Unity. Basic key detection to hit Notes as they fall down. You can import your own MP3 Files to create new Songs and play them. See description below for further information.
 
-![Game Screenshot](https://github.com/kuko64/BPM/blob/main/BPM-Screenshot.png?raw=true)
+![Game Screenshot](https://github.com/kuko64/BPM/blob/main/BPM-collage.png?raw=true)
 
 ## Getting started
 Download project and run in Unity (01_StartScene). To add new music just copy the mp3 file to Assets>Resources>Music. You can then start the game and hit 'Create New Song' in the game to create your own Notes.
