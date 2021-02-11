@@ -11,10 +11,3 @@ To add new music just copy the mp3 file to Assets>Resources>Music. You can then 
 ## Requirements
 - Unity 2019.2.19f1
 - Only tested on Windows10
-
-
-## Acknowledgements
-WorldMaterials from Asset Store: https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182
-
-## TODO's
-'UnityEditor' doesn't allow to build the project. Save song data that the user created to an external file. 
